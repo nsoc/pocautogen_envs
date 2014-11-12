@@ -19,5 +19,5 @@ gui_host:JMETER_MONITOR::
 #web_host:TSAM_MANAGER::
 #web_host:TSAM_AGENT:lms_dma1,lms_dma2:
 #tuxedo_host:TSAM_AGENT:lms_dmb1,lms_dmb2:
-db_host:ORACLE_DATABASE::
-tux1_host:ORACLE_CLIENT::
+db_host:ORACLE_DATABASE::11203
+tux1_host:ORACLE_CLIENT::11203
