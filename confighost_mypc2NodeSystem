@@ -1,4 +1,5 @@
 #HOST:TYPE:INSTANCE:VERSION
 
-caf01:OS::
+winpc:VAGRANT::
+hostA,hostB:OS::
 adminvbox:ADMIN_CONSOLE::
