@@ -11,3 +11,4 @@ gui_host:JMETER_MONITOR::
 tux_host,tsam_host:ORACLE_JDK::
 tux_host:ORACLE_CLIENT::11203
 db_host:ORACLE_DATABASE::11203
+db_host:DEFAULT_DB::
