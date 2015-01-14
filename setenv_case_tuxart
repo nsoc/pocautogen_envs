@@ -1,0 +1,4 @@
+APPLICATION_NAME=tuxart_batch_shm
+TUX_NODMGW=TRUE
+APPLICATION_TAG=tuxedo_server,tuxedo_client
+APPLICATION_TAG=tuxedo_server,tuxedo_client

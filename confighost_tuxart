@@ -1,0 +1,8 @@
+#HOST:TYPE:INSTANCE:VERSION:GROUPS:PROPERTIES
+
+tux_host:TUXEDO_MASTER:jesdomain1:1213:jesdomain1:TUX_MASTER=arthost1
+tux_host:TUXEDO_SERVER:arthost1:1213:jesdomain1:
+tux_host:TUXART_BATCH::1213::
+tux_host:ORACLE_CLIENT::11203
+tux_host:COBOLIT::3729
+db_host:ORACLE_DATABASE::11203
